@@ -10,17 +10,18 @@ Right now, I'm building Pantry Planner, an AI-powered meal planner and grocery l
 
 Join me on my journey to blend pixels, function & harmony! Explore my projects, collaborate on something awesome, or just say hi!
 
-<!-- [Info needed: Add a sentence or two about your current focus or projects, like "Right now, I'm working on..." or "I'm excited to share my latest game..." if applicable]
-
+<!-- 
 My Tools of the Trade:
 
-Programming Languages: Java, Node.JS, Python
-Design & Development: HTML, CSS, JavaScript
-Audio Production: Logic Pro X, Ableton Live
+Programming Languages: Java, C, C++
+Scripting Languages: Python, Javascript
+Backend: Node.JS, Springboot
+Frontend: HTML, CSS, Vue
+Static Site Generation: Jekyll
+Audio Production: Reaper
 Movement & Inspiration: Basketball, Jazz Dance, Baroque Music
 [Info needed: Add a sentence or two about your skills or expertise within each tool, like "I'm a master of building interactive gameplay in Java..." or "My passion for Latin rhythms inspires my music..."]
 
-Beyond the Code:
 
 I believe technology is a powerful tool for storytelling, artistic expression, and even escapism. I'm constantly exploring the possibilities at the intersection of creativity and technology, always learning and growing as an artist and programmer.
 
