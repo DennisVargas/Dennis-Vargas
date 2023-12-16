@@ -11,9 +11,8 @@ Right now, I'm building Pantry Planner, an AI-powered meal planner and grocery l
 Join me on my journey to blend pixels, function & harmony! Explore my projects, collaborate on something awesome, or just say hi!
 
 # 📊 GitHub Stats:
- [![DennisVargas's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennisvargas)](https://github.com/dennisvargas/github-readme-stats)
-<!-- ![DennisVargas's Stats](https://github-readme-stats.vercel.app/api?username=DennisVargas&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
-![DennisVargas's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=DennisVargas&theme=tokyonight&hide_border=true)<br/>
+![DennisVargas's Stats](https://github-readme-stats.vercel.app/api?username=DennisVargas&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
+<!-- ![DennisVargas's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=DennisVargas&theme=tokyonight&hide_border=true)<br/>
 ![DennisVargas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisVargas&langs_count=12&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![DennisVargas's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=DennisVargas&radius=6&theme=tokyo-night&hide_border=true) -->
 
