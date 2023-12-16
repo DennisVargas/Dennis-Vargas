@@ -1,4 +1,4 @@
-## Dennis Vargas: Building Experiences with Design, Code & Music 🎮👨🏽‍💻🎵
+## Building Experiences with Design, Code & Music 🎮👨🏽‍💻🎵
 I'm Dennis Vargas, a passionate Creative Technologist weaving immersive experiences where code meets function and fun. ✨
 
 I am on a creative mission to:
