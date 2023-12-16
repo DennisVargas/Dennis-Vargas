@@ -6,9 +6,9 @@ I am on a creative mission to:
 - Compose captivating soundtracks that tell stories without words.
 - Develop innovative apps that simplify the gap between technology, art, and life.
 
-Right now, I'm building Pantry Planner, an AI-powered meal planner and grocery list app designed to simplify your kitchen orchestration. Using Java Spring and a dash of AWS magic (Lambda & DynamoDB), Pantry Planner will learn your preferences and create delicious, personalized meal plans with ease. Stay tuned for updates on development!
+Right now, I'm building Pantry Planner, an AI-powered meal planner and grocery list app designed to saving you time from planning to plating. Using Java Spring and powered by Lambda's serverless functions, Pantry Planner seamlessly executes its AI-powered recipe engine, crafting personalized meals based on your preferences.
 
-Join me on my journey to blend pixels, function & harmony! Explore my projects, collaborate on something awesome, or just say hi!
+Follow me in my journey to blend pixels, function, time saving & artistic harmony! Explore my projects, email me to collaborate on something cool, or just say hi!
 
 ### 📊 GitHub Stats:
 ![DennisVargas's Stats](https://github-readme-stats.vercel.app/api?username=DennisVargas&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&hide=contribs&show_icons=true)<br/>
