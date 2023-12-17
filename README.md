@@ -6,7 +6,7 @@ I am on a creative mission to:
 - Compose captivating soundtracks that tell stories without words.
 - Develop innovative apps that simplify the gap between technology, art, and life.
 
-Right now, I'm building [Pantry Planner](https://github.com/DennisVargas/PantryPlanner), an AI-powered meal planner and grocery list app designed to save time from planning to plating. Using Java Spring and powered by Lambda's serverless functions, Pantry Planner seamlessly executes its AI-powered recipe engine, crafting personalized meals based on your preferences. I'm also always keeping my game development skills sharp and have just begun a journey into developing games with Godot.
+Right now, I'm building [Pantry Planner](https://github.com/DennisVargas/PantryPlanner), a meal planner and grocery list app designed to save time from planning to plating. Using Java Spring and powered by Lambda's serverless functions, Pantry Planner seamlessly executes its AI-powered recipe engine, crafting personalized meals based on your preferences. I'm also always keeping my game development skills sharp and have just begun a journey into developing games with Godot.
 
 You are welcome to follow along in my journey blending pixels, function, time saving & artistic harmony! Explore my projects, [email](mailto:dvargas.software@gmail.com) me to collaborate on something cool, or just say hi!
 
