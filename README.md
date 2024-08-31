@@ -1,15 +1,15 @@
 ## Building Experiences with Design, Code & Music 🎮👨🏽‍💻🎵
 I'm Dennis Vargas, a passionate Creative Technologist weaving immersive experiences where code meets function and fun. ✨
 
-I am on a creative mission to:
-- Craft interactive worlds that come alive with engaging mechanics, color, and sound.
-- Compose captivating soundtracks that tell stories without words.
-- Develop innovative apps that simplify the gap between technology, art, and life.
+I am on a creative journey, discovering how to:
+- Craft interactive living worlds with engaging mechanics, color, and sound.
+- Compose captivating soundtracks.
+- Simplify the gap between technology, art, and life.
 
-Right now, I'm building [Pantry Planner](https://github.com/DennisVargas/PantryPlanner), a meal planner and grocery list app designed to save time from planning to plating. I'm planning on working out Pantry Planner features that seamlessly integrate an AI-powered recipe and meal plan recommendation engine, crafting personalized meals based on the users preferences. I'm also keeping my game development skills sharp and begining a few small projects with Godot game engine.
+<!-- Right now, I'm building [Pantry Planner](https://github.com/DennisVargas/PantryPlanner), a meal planner and grocery list app designed to save time from planning to plating. I'm planning on working out Pantry Planner features that seamlessly integrate an AI-powered recipe and meal plan recommendation engine, crafting personalized meals based on the users preferences. I'm also keeping my game development skills sharp and begining a few small projects with Godot game engine. 
 
 You are welcome to follow along in my journey blending pixels, function, time saving & artistic harmony! Explore my projects, [email](mailto:dvargas.software@gmail.com) me to collaborate on something cool, or just say hi!
-
+-->
 ### 📊 GitHub Stats:
 ![DennisVargas's Stats](https://github-readme-stats.vercel.app/api?username=DennisVargas&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&hide=contribs&show_icons=true)<br/>
 ![DennisVargas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisVargas&langs_count=12&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
